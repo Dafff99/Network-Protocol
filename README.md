@@ -29,7 +29,7 @@ Berikut merupakan fungsi pada 7 lapisan OSI layer secara singkat:
 
 ## 3. 🔗 7 Layer OSI
 Berikut ini merupakan tujuh model OSI Layer, yang mana pada setiap lapisan mempunyai tugas dan fungsi masing-masing sesuai dengan penggunaannya terkait dengan kebutuhan koneksi antar perangkat komputer.
-
+![alt text](https://github.com/Dafff99/Network-Protocol/blob/main/Screenshot%202025-08-20%20071653.png?raw=true)
 
 
 
