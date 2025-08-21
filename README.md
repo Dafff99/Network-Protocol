@@ -112,5 +112,4 @@ Physical (Lapisan 1)	Lapisan ini mengidentifikasi masalah terkait kelistrikan, g
 •	Terakhir, alur proses akan berbalik dari physical layer menuju application layer. Nantinya akan mengarah pada jaringan komputer penerima.
 
 
----
-✍️ Dibuat untuk tujuan pembelajaran & dokumentasi jaringan komputer.
+
