@@ -101,6 +101,8 @@ Physical (Lapisan 1)	Lapisan ini mengidentifikasi masalah terkait kelistrikan, g
 
 ## 5. 🌐 Cara Kerja OSI Layer
 
+![alt text](https://github.com/Dafff99/Network-Protocol/blob/main/Screenshot%202025-08-20%20071622.png?raw=true)
+
   Untuk memahami cara kerja dari OSI Layer sendiri,Kita dapat membayangkan dengan tahapan dalam mengirim surat. Agar surat sampai kepada penerima dengan baik dan tepat, maka harus melewati berbagai tahapan pengiriman sesuai dengan prosedur yang telah ditetapkan sebelumnya. Berikut ini merupakan beberapa penjelasan mengenai cara kerja OSI Layer.
 •	Pertama, Application layer akan mengirimkan data dari pengguna ke perangkat komputer penerima data.
 •	Kedua, pada presentation layer terjadi konversi email menjadi sebuah format jaringan.
